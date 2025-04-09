@@ -1,0 +1,55 @@
+# Indian Income Tax Rules (Old Regime) – FY 2023-24 / AY 2024-25
+
+1. **Section 80C**
+   - Maximum deduction: ₹1,50,000
+   - Eligible investments: ELSS, PPF, NSC, 5-year FD, Life Insurance Premium, Tuition fees for children, Home loan principal repayment.
+
+2. **Section 80D**
+   - Health insurance premiums:
+     - Self/family (under 60): ₹25,000
+     - Parents (under 60): ₹25,000
+     - Parents (above 60): ₹50,000
+     - Total max: ₹75,000
+
+3. **Section 80CCD(1B)**
+   - NPS (National Pension Scheme) additional deduction: ₹50,000
+
+4. **Section 80E**
+   - Interest paid on education loan: Full interest allowed (no upper cap)
+   - Duration: 8 years
+
+5. **Section 24(b)**
+   - Home loan interest deduction: Up to ₹2,00,000 per year (self-occupied property)
+
+6. **HRA (House Rent Allowance)**
+   - Applicable if paying rent and not owning a house in the same city.
+   - Least of the following is deductible:
+     a) Actual HRA received
+     b) 50% of salary (metro) or 40% (non-metro)
+     c) Rent paid – 10% of salary
+
+7. **Standard Deduction**
+   - Flat ₹50,000 for salaried individuals
+
+8. **Section 80TTA / 80TTB**
+   - 80TTA: Savings interest income deduction up to ₹10,000 (for <60 years)
+   - 80TTB: ₹50,000 for senior citizens (60+)
+
+9. **Section 80G**
+   - Donations to eligible charities: 50% or 100% deduction (with/without limits depending on the org)
+
+10. **Leave Travel Allowance (LTA)**
+    - Exemption available twice in a block of 4 years.
+    - Covers domestic travel fare for self and family.
+
+11. **Tax Slabs – Old Regime (FY 2023–24)**
+    - Up to ₹2.5L: Nil
+    - ₹2.5L – ₹5L: 5%
+    - ₹5L – ₹10L: 20%
+    - Above ₹10L: 30%
+    - Rebate under 87A: Income up to ₹5L = no tax
+
+# Notes:
+- Deductions can only be claimed under the Old Regime.
+- Taxpayer must choose between Old and New Regime.
+- All claims must be backed by proofs for audits.

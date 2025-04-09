@@ -1,0 +1,14 @@
+{
+    "name": "Neha",
+    "annual_salary": 1200000,
+    "monthly_rent": 25000,
+    "investments": {
+      "ppf": 80000,
+      "elss": 20000,
+      "health_insurance": 18000,
+      "nps": 30000
+    },
+    "loan_interest_paid": 180000,
+    "education_loan_interest": 45000
+  }
+  
