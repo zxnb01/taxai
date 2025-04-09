@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:lucide_icons/lucide_icons.dart';
 import 'dart:async';
 import 'package:fl_chart/fl_chart.dart';
+import 'package:tax_ai/chatbot.dart';
 import 'package:tax_ai/faqs_page.dart';
 import 'package:tax_ai/kyr.dart';
 import 'package:tax_ai/optimize_questionnaire.dart';
@@ -347,7 +348,8 @@ class _HomePageState extends State<HomePage> {
               child: FloatingActionButton(
                 shape: const CircleBorder(),
                 onPressed: () {
-                  // Open Chatbot
+                  Navigator.push(context,
+                      MaterialPageRoute(builder: (context) => ChatbotPage()));
                 },
                 backgroundColor: Colors.white,
                 child: const Icon(LucideIcons.bot, color: Colors.black),
